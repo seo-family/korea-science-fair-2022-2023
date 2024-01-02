@@ -4,11 +4,11 @@ Korea Science Fair 2022-2023 (2022-2023 대한민국 과학전람회) ([wiki](ht
   - Preliminary exhibited work (예선 출품작) ([link](seoul-preliminary))
   - Final exhibited work (본선 출품작) ([link](seoul-final))
   - Award achievemtnts (수상 실적) ([link](seoul-final-award))
-    - Grand prize - Physics (최우수상 - 물리)
+    - ***Grand prize** - Physics (**최우수상** - 물리)*
 - The 69th National Science Fair (제69회 전국과학전람회)
   - Final exhibited work (본선 출품작) ([link](national-final))
   - Award achievements (수상 실적) ([link](national-final-award))
-    - Encouragement prize - Physics (장려상 - 물리)
+    - ***Encouragement prize** - Physics (**장려상** - 물리)*
   - On-site photos (현장 사진) ([link](national-final-photo))
 - Source code (소스코드)
   - Friction heat measuring device EZMaker mBlock source code (마찰열 측정장치 이지메이커 mBlock 소스코드) ([link](mblock))
