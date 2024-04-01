@@ -12,3 +12,5 @@ Korea Science Fair 2022-2023 (2022-2023 대한민국 과학전람회) ([wiki](ht
   - On-site photos (현장 사진) ([link](national-final-photo))
 - Source code (소스코드)
   - Friction heat measuring device EZMaker mBlock source code (마찰열 측정장치 이지메이커 mBlock 소스코드) ([link](mblock))
+- Video (영상)
+  - Experiment video (실험 영상) ([link](video))
